@@ -15,7 +15,7 @@
   
 # 🛡️ Mohamed Al-Husainawi
 
-**`Computer Science Student • Developer`**
+**`Computer Science Student • Cybersecurity`**
 
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="300"/>
 
