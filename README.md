@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </div>
 
-<h1 align="center">Hey!👋, I'm Jaden </h1>
+<h1 align="center">Hey!👋, I'm MoMoney </h1>
 <h4 align="center">Hit me up say hi! 🚀</h4>
 
 <!-- Former header GIF now on the right -->
