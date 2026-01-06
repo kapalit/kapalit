@@ -71,7 +71,7 @@ Linux    Windows    Ubuntu    Kali    Unity    AutoCAD    Arduino
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=python,c,cpp,cs,js,java,html,css,mysql,docker,azure,git,kali,ubuntu,unity,powershell,wordpress,linux,windows,arduino&theme=dark)
+![Skills](https://skillicons.dev/icons?i=python,c,cpp,cs,js,java,html,css,mysql,docker,azure,git,kali,ubuntu,powershell,linux,windows&theme=dark)
 
 </div>
 
