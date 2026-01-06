@@ -15,7 +15,7 @@
 
 - 🌱 Ask me anything  
 - 🌱 I’m currently learning more  
-- 📫 Let's connect **[LinkedIn]([https://www.linkedin.com/in/mohamed-al-husainawi-706578342/] )**  
+- 📫 Let's connect **[LinkedIn]([(https://www.linkedin.com/in/mohamed-al-husainawi-706578342/]) )**  
 - ⚡ Bachelors of Honours Computer Science
 
 <!-- Languages and Tools tightly spaced -->
