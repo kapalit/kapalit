@@ -31,10 +31,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vottrix&langs_count=7&theme=tokyonight"/>
+      
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=vottrix&show_icons=true&locale=en&theme=tokyonight" alt="vottrix" />
+        
       </td>
     </tr>
   </table>
