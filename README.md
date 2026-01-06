@@ -75,26 +75,11 @@ Linux    Windows    Ubuntu    Kali    Unity    AutoCAD    Arduino
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapalit&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=30363d)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapalit&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=30363d)
-
-</div>
-
----
-
 ## 📡 Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-al-husainawi)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapalit)
 
 </div>
 
