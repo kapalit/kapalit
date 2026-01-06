@@ -15,8 +15,8 @@
 
 - 🌱 Ask me anything  
 - 🌱 I’m currently learning more  
-- 📫 Let's connect **[LinkedIn](https://www.linkedin.com/in/jaden-mardini-783b1a1ba/)**  
-- ⚡ Computer Engineering Diploma  
+- 📫 Let's connect **[LinkedIn]([https://www.linkedin.com/in/jaden-mardini-783b1a1ba/](https://www.linkedin.com/in/mohamed-al-husainawi-706578342/))**  
+- ⚡ Bachelors of Honours Computer Science
 
 <!-- Languages and Tools tightly spaced -->
 <div align="left" style="line-height: 1.2; margin-bottom: 0;">
