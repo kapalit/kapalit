@@ -46,7 +46,7 @@ root@dev:~$ _
 ```
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=bash,python,c,cpp,cs,js,java,html,css,mysql,docker,azure,git,kali,ubuntu,powershell,linux,windows&theme=dark)
+![Skills](https://skillicons.dev/icons?i=eclipse,figma,ai,linkedin,vscode,bash,python,c,cpp,cs,js,java,html,css,mysql,docker,azure,git,kali,ubuntu,powershell,linux,windows&theme=dark)
 
 </div>
 
