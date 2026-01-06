@@ -31,6 +31,5 @@
   <table>
     <tr>
       <td>
-      
   </table>
 </div>
