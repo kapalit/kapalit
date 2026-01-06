@@ -25,10 +25,4 @@
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,java,js,html,css,mysql,docker,azure,git,autocad,arduino,kali,ubuntu,unity,powershell,wordpress,linux,windows,apple,visualstudio,vscode,clion,qt&perline=9&theme=dark" style="margin-top: -6px;" />
 </div>
 
-<!-- Stats Section Side by Side -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-  </table>
-</div>
+
