@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </div>
 
-<h1 align="center">Hey!👋, I'm MoMoney </h1>
+<h1 align="center">Hey!👋, I'm Mohamed </h1>
 <h4 align="center">Hit me up say hi! 🚀</h4>
 
 <!-- Former header GIF now on the right -->
@@ -15,7 +15,7 @@
 
 - 🌱 Ask me anything  
 - 🌱 I’m currently learning more  
-- 📫 Let's connect **[LinkedIn]([https://www.linkedin.com/in/jaden-mardini-783b1a1ba/](https://www.linkedin.com/in/mohamed-al-husainawi-706578342/))**  
+- 📫 Let's connect **[LinkedIn]([https://www.linkedin.com/in/mohamed-al-husainawi-706578342/] )**  
 - ⚡ Bachelors of Honours Computer Science
 
 <!-- Languages and Tools tightly spaced -->
