@@ -14,7 +14,7 @@
 </p>
 
 - 🌱 Ask me anything  
-- 📫 Let's connect **[LinkedIn]([(https://www.linkedin.com/in/mohamed-al-husainawi-706578342/]) )**  
+- 📫 Let's connect **[LinkedIn]((https://www.linkedin.com/in/mohamed-al-husainawi) )**  
 - ⚡ Bachelors of Honours Computer Science
 
 <!-- Languages and Tools tightly spaced -->
