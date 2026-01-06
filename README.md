@@ -44,34 +44,9 @@ drwxr-xr-x 3 mohamed mohamed 4096 Jan  5 22:06 ..
 
 root@dev:~$ _
 ```
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-```
-Python    C/C++    C#    JavaScript    Java
-```
-
-### 🌐 Web Development
-```
-HTML    CSS    MySQL    WordPress
-```
-
-### ☁️ Cloud & DevOps
-```
-Azure    Docker    Git    PowerShell
-```
-
-### 🖥️ Systems & Tools
-```
-Linux    Windows    Ubuntu    Kali    Unity    AutoCAD    Arduino
-```
-
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=python,c,cpp,cs,js,java,html,css,mysql,docker,azure,git,kali,ubuntu,powershell,linux,windows&theme=dark)
+![Skills](https://skillicons.dev/icons?i=bash,python,c,cpp,cs,js,java,html,css,mysql,docker,azure,git,kali,ubuntu,powershell,linux,windows&theme=dark)
 
 </div>
 
