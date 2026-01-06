@@ -50,6 +50,21 @@ root@dev:~$ _
 
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapalit&theme=github_dark" alt="Profile Summary" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kapalit&theme=github_dark&utcOffset=8" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 📡 Connect
 
 <div align="center">
