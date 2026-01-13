@@ -70,6 +70,7 @@ root@dev:~$ _
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-al-husainawi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://kapalit.github.io/kapalit.Portfolio/)
 
 </div>
 
